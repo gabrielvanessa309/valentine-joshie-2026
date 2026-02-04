@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💛', '🐥'],  // Heart emojis
-        bears: ['🧸', '🎹']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '🎹', '💛', '🐥'],  // Heart emojis
+        bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🧸🤗💝💋🐥❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
